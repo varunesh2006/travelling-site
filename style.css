@@ -1,0 +1,89 @@
+
+        body {
+            background: linear-gradient(red, yellow 30deg);
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-image: url(travel.jpg);
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #555;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 5px;
+        }
+
+        nav a:hover {
+            background-color: #777;
+        }
+
+        .content {
+            background-color: #fff;
+            padding: 20px;
+            margin: 10px;
+            box-shadow: 1px 1px 5px #555;
+            border-radius: 5px;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        body {
+			font-family: Arial, sans-serif;
+			background-color: #f5f5f5;
+			padding: 50px;
+		}
+
+		.container {
+			background-color: #fff;
+			padding: 20px;
+			border-radius: 5px;
+			box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+		}
+
+		.input-field {
+			width: 100%;
+			padding: 10px;
+			margin-bottom: 10px;
+			border: 1px solid #ccc;
+			border-radius: 5px;
+			box-sizing: border-box;
+			font-size: 16px;
+		}
+
+		.label {
+			display: block;
+			margin-bottom: 5px;
+			font-weight: bold;
+		}
+
+		.submit-button {
+			background-color: #4CAF50;
+			color: #fff;
+			padding: 10px 20px;
+			border: none;
+			border-radius: 5px;
+			cursor: pointer;
+			font-size: 16px;
+		}
+
+		.submit-button:hover {
+			background-color: #3e8e41;
+		}
+
